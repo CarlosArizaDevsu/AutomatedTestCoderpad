@@ -1,0 +1,9 @@
+## E2E
+For this exercise I can conclude:
+1. In the final form there is not restriction in any of the fields, so a field which can be considered as number receives string values
+2. Cart page is taking time to load the table with the products related
+
+## API
+For this exercise I found the following:
+1. Input fields: username and password
+2. Output fields: status, errorMessage
